@@ -1,0 +1,36 @@
+.OrderCard {
+    background-color: rgba(155, 255, 255, 0.4);
+    border: 1px solid rgb(140, 209, 255);
+    border-radius: 15px;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    right: 10%;
+    font-weight: 500;
+    box-shadow: 0 0 10px 5px rgba(48, 255, 227, 0.5),  /* inner white */
+    0 0 20px 5px rgba(186, 255, 179, 0.5); /* middle magenta */
+}
+
+.FormText {
+    color: rgb(255, 255, 255);
+  text-shadow:
+    0 0 2px #fff,
+
+    0 0 5px rgb(136, 255, 215),
+    0 0 10px rgb(162, 255, 175),
+
+    0 0 20px rgb(0, 255, 64),
+    0 0 30px rgb(109, 255, 72);
+} 
+
+.TitleText {
+  color: rgb(241, 247, 255);
+text-shadow:
+  0 0 2px rgb(131, 255, 224),
+
+  0 0 5px rgb(134, 227, 250),
+  0 0 10px rgb(48, 231, 255),
+
+  0 0 20px rgb(50, 180, 255),
+  0 0 30px rgb(0, 132, 255);
+} 
